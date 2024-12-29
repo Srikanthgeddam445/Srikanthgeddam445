@@ -1,7 +1,4 @@
-Create Database Gaddam
 
-Use Gaddam
-Go
 
 Create Table Employee
 (
