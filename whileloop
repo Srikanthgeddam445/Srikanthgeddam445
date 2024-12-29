@@ -1,0 +1,8 @@
+This is while loop
+
+While (@x<=7)
+Begin
+Print @x
+Set @x = @x+1
+End
+
